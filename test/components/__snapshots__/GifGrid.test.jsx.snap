@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test GifGrid should match with the snapshot 1`] = `
+<div>
+  <h3>
+    Attack On Titan
+  </h3>
+  <div
+    class="card-grid"
+  >
+    <div
+      class="card"
+    >
+      <img
+        alt="Attack on Titan"
+        src="https://test.com/aot.jpg"
+      />
+      <p>
+        Attack on Titan
+      </p>
+    </div>
+    <div
+      class="card"
+    >
+      <img
+        alt="Eren"
+        src="https://test.com/eren.jpg"
+      />
+      <p>
+        Eren
+      </p>
+    </div>
+  </div>
+</div>
+`;
